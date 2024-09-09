@@ -23,3 +23,21 @@ This Python script allows you to perform **nslookup** on multiple websites simul
 
    Prepare the Script
 
+## How to Use
+
+### 2. Prepare the Script
+
+   Open the downloaded script file `GRANDAlookup.py` in your text editor or Integrated Development Environment (IDE). This will allow you to make any necessary adjustments or modifications to the script.
+
+### 3. Edit the Script (Optional)
+
+   If you want to perform lookups on different domains, you can modify the list of websites in the script. Find the section in the script that defines the `websites` list and update it with your desired domains:
+
+   ```python
+   websites = [
+       'example.com',
+       'google.com',
+       'facebook.com'
+   ]
+
+
